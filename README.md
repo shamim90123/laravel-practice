@@ -5,6 +5,7 @@ Modern Laravel application with secure authentication features.
 ## ✨ Key Features
 
 - **GitHub OAuth Integration** - Seamless login with GitHub accounts
+- **Reset Password** - Custom Password Reset Flow (Blade-Based Email) using Laravel Jetstream
 
 
 ## 🚀 Getting Started
